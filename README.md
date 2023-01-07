@@ -21,4 +21,4 @@ loading products on the page from [fakestoreapi](https://fakestoreapi.com/).
 - fully adapted for mobile devices.
 
 ### Deploy on vercel
-
+[eShop](https://e-shop-three-beta.vercel.app/)
